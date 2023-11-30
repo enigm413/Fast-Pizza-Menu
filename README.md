@@ -15,6 +15,12 @@ The goal of the project is used to teaches the following topic
 - Passing props to components
 - Recieving props that are passed
 
+## JavaScript Concept Covered In Projects
+
+- Map Function
+- Destructuring Arrays
+- Ternery Oparator
+
 ## Project Explanation
 
 ### **Dependencies and Styling**
